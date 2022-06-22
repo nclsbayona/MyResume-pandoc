@@ -6,3 +6,4 @@ output/
 #Act
 act*
 .act*
+Dockerfile

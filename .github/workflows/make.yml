@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y pandoc context make build-essential
       - name: Compile markdown
-        run: make pdf
+        run: make
       - name: Commit files
         run: |
          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

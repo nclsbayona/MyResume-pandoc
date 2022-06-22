@@ -30,7 +30,7 @@ jobs:
          packages: pandoc context make build-essential
          version: 1.0
       - name: Compile markdown
-        run: make
+        run: make pdf
       - name: Commit files
         run: |
          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"

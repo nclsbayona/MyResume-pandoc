@@ -30,7 +30,7 @@ jobs:
       #   packages: pandoc context make build-essential
       #   version: 1.0
       - name: Install dependencies
-        run: apt update && apt install -y pandoc context make build-essential
+        run: apt-get update && apt-get install -y pandoc context make build-essential
       - name: Compile markdown
         run: make pdf
       - name: Commit files

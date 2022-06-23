@@ -25,6 +25,7 @@ jobs:
      image: nclsbayona/resume_on_markdown
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - run: echo "${{github.repository_owner}} - ${{github.event.repository.name}}"
       - name: Clone repo
         uses: GuillaumeFalourd/clone-github-repo-action@v2
         with:

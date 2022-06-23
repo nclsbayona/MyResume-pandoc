@@ -25,7 +25,11 @@ jobs:
      image: nclsbayona/resume_on_markdown
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - uses: actions/checkout@v3
+      - name: Clone repo
+        uses: GuillaumeFalourd/clone-github-repo-action@v2
+        with:
+         owner: ${{github.repository_owner}}
+         repository: ${{github.event.repository.name}}
       #- name: Cache/Install dependencies
       #  uses: awalsh128/cache-apt-pkgs-action@v1.0.2
       #  with:

@@ -1,4 +1,4 @@
-Johnny Coder
+Nicolas Bayona
 ============
 
 ----
@@ -81,14 +81,13 @@ Programming Languages
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
-Extra Section, Call it Whatever You Want
+Aditional information
 ----------------------------------------
 
 * Human Languages:
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+     * Spanish (Native speaker)
+     * English (Conversational)
 
 * Random tidbit
 
@@ -96,5 +95,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+<bayona.n@javeriana.edu.co> • Bogota, Colombia \
++00 000 000 0000

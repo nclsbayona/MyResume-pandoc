@@ -1,0 +1,28 @@
+body{
+    background-color: #444444;
+}
+
+div{
+
+    width: 100%;
+    height: 100%;
+    word-wrap: normal;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    border-radius: 95% 95% 95% 95%;
+    border-color: #FFF;
+    text-align: center;
+
+    background-color: #1f1d1d;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    font-size: 1000%;
+    color: #ffffff
+}

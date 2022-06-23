@@ -20,11 +20,12 @@ Experience
 
 **Volunteer Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Academic mentor at Pontifical Xaverian University
 
-* First item
+As an academic mentor I was in charge of:
+  
+  - Welcoming new coming students to a new stage in their lives.
+  - Helping the new coming students in their adaptation process.
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
@@ -74,13 +75,9 @@ Aditional information
 * Human Languages:
 
      * Spanish (Native speaker)
-     * English (Conversational)
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+     * English (Fully-conversational)
 
 ----
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
-+00 000 000 0000
+Reach me on [Telegram](t.me/nclsbayona)

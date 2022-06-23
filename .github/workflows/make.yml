@@ -43,6 +43,7 @@ jobs:
       - run: make && ls
       - name: Commit files
         run: |
+         git config --global --add safe.directory /__w/MyResume/MyResume
          git fsck 
          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config user.name "github-actions[bot]"

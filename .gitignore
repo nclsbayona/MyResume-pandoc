@@ -1,9 +1,0 @@
-*.log
-*.swo
-*.swp
-output/
-
-#Act
-act*
-.act*
-Dockerfile

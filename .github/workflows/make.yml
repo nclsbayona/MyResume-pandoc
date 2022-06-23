@@ -39,7 +39,7 @@ jobs:
       #- name: Install dependencies
       #  run: sudo apt-get update && sudo apt-get install -y pandoc context make build-essential
       - name: Move contents
-        run: cp -r ${{github.event.repository.name}}/* . && cp -r ${{github.event.repository.name}}/.g* . && rm -r ${{github.event.repository.name}}
+        run: cp -r ${{github.event.repository.name}}/* . && cp -r ${{github.event.repository.name}}/.g* . && rm -rf generated && rm -r ${{github.event.repository.name}}
       - run: make && ls
       - name: Commit files
         run: |

@@ -24,8 +24,8 @@ Experience
 
 As an academic mentor I was in charge of:
   
-  - Welcoming new coming students to a new stage in their lives.
-  - Helping the new coming students in their adaptation process.
+  * Welcoming new coming students to a new stage in their lives.
+  * Helping the new coming students in their adaptation process.
 
 * Item with [link](http://www.example.com). Links will work both in
   the html and pdf versions.
@@ -80,4 +80,4 @@ Aditional information
 ----
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
-Reach me on [Telegram](t.me/nclsbayona)
+Reach me on [Telegram. My username is nclsbayona](t.me/nclsbayona)

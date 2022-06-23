@@ -31,7 +31,7 @@ jobs:
         with:
          owner: ${{github.repository_owner}}
          repository: ${{github.event.repository.name}}
-      - run: cd MyResume
+      - run: cd MyResume && ls
       #- name: Cache/Install dependencies
       #  uses: awalsh128/cache-apt-pkgs-action@v1.0.2
       #  with:

@@ -39,13 +39,14 @@ jobs:
       #- name: Install dependencies
       #  run: sudo apt-get update && sudo apt-get install -y pandoc context make build-essential
       - name: Move contents
-        run: cp -r ${{github.event.repository.name}}/* . && cp -r ${{github.event.repository.name}}/.git . && rm -r ${{github.event.repository.name}} && cat .git/HEAD
+        run: cp -r ${{github.event.repository.name}}/* . && cp -r ${{github.event.repository.name}}/.git . && rm -r ${{github.event.repository.name}}
       - run: make
       - name: Commit files
         run: |
+         cat .git/HEAD
          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config user.name "github-actions[bot]"
-         git commit -m "Add changes" -a
+         git commit -am "Add changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

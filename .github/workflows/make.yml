@@ -43,7 +43,7 @@ jobs:
       - run: make
       - name: Commit files
         run: |
-         cat .git/HEAD
+         git fsck 
          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config user.name "github-actions[bot]"
          git commit -am "Add changes"

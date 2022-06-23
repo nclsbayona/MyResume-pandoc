@@ -1,4 +1,4 @@
-OUT_DIR=output
+OUT_DIR=generated
 IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne

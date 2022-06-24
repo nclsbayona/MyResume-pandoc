@@ -30,7 +30,7 @@ _**Academic mentor at Pontifical Xaverian University**_:
 Technical Experience
 --------------------
 
-Most of my technical work is in my GitHub profile, you can visit my profile at [https://github.com/nclsbayona](https://github.com/nclsbayona)
+Most of my technical work is in my GitHub profile, you can visit my profile at [\fa{github}GitHub](https://github.com/nclsbayona)
 
 **My Cool Side Projects:**\
 Usually I practice my skills via some helpful project that I tend to mantain over time, I think it's really good to automate repetitive tasks and jobs a bot or some type of automation software can do on its own. Examples of this are my
@@ -62,7 +62,7 @@ The first programming language I learnt was C++, the most valuable thing I think
 
 
 * **_Python:_** \
-After learning C++, I decided to learn Python, because its reputation was great and it . 
+After learning C++, I decided to learn Python, because its reputation was great, it simplified the development process as its syntax was similar to natural language and included really powerful mathematical tools that helped to perform tasks in a more methodic way. 
 
 * **_Java:_** \
 We both know this one's pushing it. 
@@ -82,6 +82,6 @@ Aditional information
 ----
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
-Reach me on [Telegram: My username is nclsbayona](https://t.me/nclsbayona)
+Reach me on [\fa{telegram}](https://t.me/nclsbayona), my username is nclsbayona
 
 ----

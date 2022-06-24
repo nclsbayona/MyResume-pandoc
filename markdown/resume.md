@@ -62,7 +62,7 @@ The first programming language I learnt was C++, the most valuable thing I think
 
 
 * **_Python:_** \
-Description of your experience with second-lang, perhaps again including a [link] [ref], this time placing the url reference elsewhere in the document to reduce clutter (see source file). 
+After learning C++, I decided to learn Python, because its reputation was great and it . 
 
 * **_Java:_** \
 We both know this one's pushing it. 

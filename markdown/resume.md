@@ -10,8 +10,8 @@ Nicolas Bayona
 Education
 ---------
 
-2019-2023 (expected)
-:   **BSc, Systems engineering**; Pontifical Xaverian University (Bogota, Colombia)
+2019-2023 (expected):\
+**BSc, Systems engineering**; Pontifical Xaverian University (Bogota, Colombia)
 
     * Final project title: Still not sure :C *
 
@@ -78,4 +78,4 @@ Aditional information
 ----
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
-Reach me on [Telegram](t.me/nclsbayona)
+Reach me on [Telegram: My username is nclsbayona](t.me/nclsbayona)

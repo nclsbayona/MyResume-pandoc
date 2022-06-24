@@ -36,7 +36,7 @@ jobs:
          git fsck 
          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
          git config user.name "github-actions[bot]"
-         git commit -am "Add changes"
+         git add . && git commit -m "Add changes"
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

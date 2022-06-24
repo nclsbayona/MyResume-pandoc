@@ -1,7 +1,7 @@
 Nicolas Bayona
 ============
 
-> Systems engineering student passionate about technological stuff and the use of technology to improve people's lives.
+> Systems engineering student passionate about technological stuff and the use of technology to improve people's lives. You can check my [\fa{linkedin}LinkedIn](https://linkedin.com/)
 
 ----
 

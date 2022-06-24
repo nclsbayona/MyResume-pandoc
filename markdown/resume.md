@@ -1,8 +1,6 @@
 Nicolas Bayona
 ============
 
-----
-
 > Systems engineering student passionate about technological stuff and the use of technology to improve people's lives.
 
 ----
@@ -34,41 +32,43 @@ Technical Experience
 
 Most of my technical work is in my GitHub profile, you can visit my profile at [https://github.com/nclsbayona](https://github.com/nclsbayona)
 
-**My Cool Side Project:**\
-  For items which don't have a clear time ordering, a definition
-  list can be used to have named items.
+**My Cool Side Projects:**\
+Usually I practice my skills via some helpful project that I tend to mantain over time, I think it's really good to automate repetitive tasks and jobs a bot or some type of automation software can do on its own. Examples of this are my
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+  * These items can also contain lists, but you need to mind the indentation levels in the markdown source.
+  * Second item.
 
-**Open Source:**\
-    List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Open Source:**
+* **_Project 1:_** Here
+
+* **_Project 2:_** Description 
+
+* **_Project 3:_** We both
 
 **Programming Languages:**   
-**_C++:_** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Throughout my life, I've worked in many projects and therefore, I've adquired a lot of experience 
 
-**_Python:_** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+* **_C++:_** \
+The first programming language I learnt was C++, the most valuable thing I think I learnt from my C++ learning was programming logic. I think that C++ is a really great language because it acts as a basis for other languages and many tools that have been working flawlessly since it first appeared almost 40 years ago.
+  * _Advantages:_
+    - C++ is really efficient in terms of memory consumption, execution time, and comparatively in energy consumption thanks to being a compiled language.
+    - C++ allows the use of not only classes but c-like structs too, which gives the language a lot of possibilities and extensibility too.
+  
+  * _Disadvantages:_
+    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in C++.
+    - Due to C++ being a compiled language, executables are strictly attached to an specific architecture, an executable file might present problems when trying to execute the program in an architecture different from the one it was compiled in the first place.
+    - There exist libraries that don't offer cross-platform versions, and that might not work in an environment different from the one it was developed in first place, this allows programs to work only in a specific machine.
+  
 
-**_Java:_** We both know this one's pushing
-    it.
 
-Basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_.\
-As well as markup languages such as _**YAML**, **HTML**, **XML** and **JSON**_.\
-And tools like _**Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions**, **AWS**_.
+* **_Python:_** \
+Description of your experience with second-lang, perhaps again including a [link] [ref], this time placing the url reference elsewhere in the document to reduce clutter (see source file). 
+
+* **_Java:_** \
+We both know this one's pushing it. 
+
+* **_Other relevant information:_** \
+Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_, as well as markup languages such as _**YAML**, **HTML**, **XML** and **JSON**_, and other tech-related tools like _**Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions** and **AWS**_.
 
 
 Aditional information

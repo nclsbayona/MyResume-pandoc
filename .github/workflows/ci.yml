@@ -1,4 +1,4 @@
-name: Publish Possible
+name: Merge Possible
 on:
   pull_request:
 

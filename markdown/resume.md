@@ -20,15 +20,13 @@ Experience
 
 **Volunteer Work Experience:**
 
-* Academic mentor at Pontifical Xaverian University
+_**Academic mentor at Pontifical Xaverian University**_
 
 As an academic mentor I was in charge of:
   
   - Welcoming new coming students to a new stage in their lives.
   - Helping the new coming students in their adaptation process.
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+  - Tell students about my experience as an student so far, my greatest challenges and important lessons I learnt throughout my life.
 
 Technical Experience
 --------------------

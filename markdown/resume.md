@@ -46,7 +46,7 @@ Usually I practice my skills via some helpful project that I tend to mantain ove
 * **_Project 3:_** We both
 
 **Programming Languages:**   
-Throughout my life, I've worked in many projects and therefore, I've adquired a lot of experience 
+Throughout my life, I've worked in many projects and therefore, I've adquired a lot of experience in various programming languages. Next, I'll name a few and some relevant stuff I learnt from them.
 
 * **_C++:_** \
 The first programming language I learnt was C++, the most valuable thing I think I learnt from my C++ learning was programming logic. I think that C++ is a really great language because it acts as a basis for other languages and many tools that have been working flawlessly since it first appeared almost 40 years ago.
@@ -68,7 +68,7 @@ Description of your experience with second-lang, perhaps again including a [link
 We both know this one's pushing it. 
 
 * **_Other relevant information:_** \
-Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_, as well as markup languages such as _**YAML**, **HTML**, **XML** and **JSON**_, and other tech-related tools like _**Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions** and **AWS**_.
+Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_, as well as markup languages such as _**YAML**, **HTML**, , **Markdown**, **XML** and **JSON**_, and other tech-related tools like _**Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions** and **AWS**_.
 
 
 Aditional information

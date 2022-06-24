@@ -34,7 +34,7 @@ Technical Experience
 
 Most of my technical work is in my GitHub profile, you can visit my profile at [https://github.com/nclsbayona](https://github.com/nclsbayona)
 
-My Cool Side Project:\
+**My Cool Side Project:**\
   For items which don't have a clear time ordering, a definition
   list can be used to have named items.
 
@@ -42,15 +42,15 @@ My Cool Side Project:\
       indentation levels in the markdown source.
     * Second item.
 
-Open Source:\
+**Open Source:**\
     List open source contributions here, perhaps placing emphasis on
     the project names, for example the **Linux Kernel**, where you
     implemented multithreading over a long weekend, or **node.js**
     (with [link](http://nodejs.org)) which was actually totally
     your idea...
 
-Programming Languages:   
-**C++:** Here, we have an itemization, where we only want
+**Programming Languages:**   
+**_C++:_** Here, we have an itemization, where we only want
     to add descriptions to the first few items, but still want to
     mention some others together at the end. A format that works well
     here is a description list where the first few items have their
@@ -58,17 +58,17 @@ Programming Languages:
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-**Python:** Description of your experience with second-lang,
+**_Python:_** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file). 
 
-**Java:** We both know this one's pushing
+**_Java:_** We both know this one's pushing
     it.
 
-Basic knowledge of other programming languages like **TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**.\
-As well as markup languages such as **YAML**, **HTML**, **XML** and **JSON**.\
-And tools like **Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions**, **AWS**.
+Basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_.\
+As well as markup languages such as _**YAML**, **HTML**, **XML** and **JSON**_.\
+And tools like _**Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions**, **AWS**_.
 
 
 Aditional information

@@ -82,6 +82,6 @@ Aditional information
 ----
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
-Reach me on [\fa{telegram}](https://t.me/nclsbayona), my username is nclsbayona
+Reach me on [\fa{telegram}](https://t.me/nclsbayona)Telegram, my username is nclsbayona
 
 ----

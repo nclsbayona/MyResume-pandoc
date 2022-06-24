@@ -58,15 +58,17 @@ Programming Languages:
     emphasized terms. Notice the reasonably nice page break in the pdf
     version, which wouldn't happen if we generated the pdf via html.
 
-**second-lang:** Description of your experience with second-lang,
+**Python:** Description of your experience with second-lang,
     perhaps again including a [link] [ref], this time placing the url
     reference elsewhere in the document to reduce clutter (see source
     file). 
 
-**obscure-but-impressive-lang:** We both know this one's pushing
+**Java:** We both know this one's pushing
     it.
 
-Basic knowledge of **Go**, **JavaScript**, **C**, ****
+Basic knowledge of other programming languages like **TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**.\
+As well as markup languages such as **YAML**, **HTML**, **XML** and **JSON**.\
+And tools like **Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions**, **AWS**.
 
 
 Aditional information

@@ -13,7 +13,7 @@ Education
 2019-2023 (expected):\
 **BSc, Systems engineering**; Pontifical Xaverian University (Bogota, Colombia)
 
-    * Final project title: Still not sure :C
+  * Final project title: Still not sure :C
 
 Experience
 ----------
@@ -83,3 +83,5 @@ Aditional information
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
 Reach me on [Telegram: My username is nclsbayona](https://t.me/nclsbayona)
+
+----

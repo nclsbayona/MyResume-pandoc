@@ -13,7 +13,7 @@ Education
 2019-2023 (expected):\
 **BSc, Systems engineering**; Pontifical Xaverian University (Bogota, Colombia)
 
-    * Final project title: Still not sure :C *
+    * Final project title: Still not sure :C
 
 Experience
 ----------
@@ -22,7 +22,7 @@ Experience
 
 _**Academic mentor at Pontifical Xaverian University**_:
 
-  As an academic mentor at the university I was in charge of:
+  - As an academic mentor at the university I was in charge of:
     
     - Welcoming new coming students to a new stage in their lives.
     - Helping the new coming students in their adaptation process.

@@ -1,7 +1,7 @@
 Nicolas Bayona
 ============
 
-> Systems engineering student passionate about technological stuff and the use of technology to improve people's lives. You can check my [LinkedIn](https://linkedin.com/) profile here.
+> Systems engineering student passionate about technological stuff and the use of technology to improve people's lives. You can check my [LinkedIn profile here](https://linkedin.com/).
 
 ----
 
@@ -73,12 +73,12 @@ After learning C++, I decided to learn Python, because its reputation was great,
     - There exist libraries that rely on a specific platform and its capabilities, and that might not work in an environment different from the one it was developed in first place, this makes the development process more tedious and so, its not always possible to use the language for a specific problem/task.
 
 * **_Java:_** \
-We both know this one's pushing it. 
+After learning Python, I learnt Java since it was a more mature language, Java was highly used in a lot of enterprise-scale applications and many cool frameworks like Spring Framework where developed considering Java as  a first-class citizen which gave it an advantage. 
   * _Advantages:_
     - .
   
   * _Disadvantages:_
-    - .
+    - There exist libraries that rely on a specific platform and its capabilities, and that might not work in an environment different from the one it was developed in first place, this makes the development process more tedious and so, its not always possible to use the language for a specific problem/task.
 
 * **_Other relevant information:_** \
 Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_, as well as markup languages such as _**YAML**, **HTML**, , **Markdown**, **XML** and **JSON**_, and other tech-related tools like _**Git**_, **Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions** and **AWS**_.
@@ -94,6 +94,6 @@ Aditional information
 ----
 
 <bayona.n@javeriana.edu.co> • Bogota, Colombia \
-Reach me on [Telegram](https://t.me/nclsbayona), my username is nclsbayona
+Reach me on [Telegram, my username is nclsbayona](https://t.me/nclsbayona).
 
 ----

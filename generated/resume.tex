@@ -68,9 +68,6 @@
    indentnext=no,
   ]
 
-\usesymbols[fontawesome]
-\def\fa#1{\symbol[fontawesome][#1]}
-
 
 \starttext
 
@@ -79,7 +76,8 @@
 \startblockquote
 Systems engineering student passionate about technological stuff and the
 use of technology to improve people's lives. You can check my
-\useURL[url1][https://linkedin.com/][][\fa{linkedin}LinkedIn]\from[url1]
+\useURL[url1][https://linkedin.com/][][LinkedIn]\from[url1] profile
+here.
 \stopblockquote
 
 \thinrule
@@ -124,7 +122,7 @@ Experience},reference={technical-experience}]
 
 Most of my technical work is in my GitHub profile, you can visit my
 profile at
-\useURL[url2][https://github.com/nclsbayona][][\fa{github}GitHub]\from[url2]
+\useURL[url2][https://github.com/nclsbayona][][github.com/nclsbayona]\from[url2]
 
 {\bf My Cool Side Projects:}\crlf
 Usually I practice my skills via some helpful project that I tend to
@@ -154,7 +152,7 @@ Throughout my life, I've worked in many projects and therefore, I've
 adquired a lot of experience in various programming languages. Next,
 I'll name a few and some relevant stuff I learnt from them.
 
-\startitemize
+\startitemize[packed]
 \item
   {\bf {\em C++:}}\crlf
   The first programming language I learnt was C++, the most valuable
@@ -162,7 +160,6 @@ I'll name a few and some relevant stuff I learnt from them.
   think that C++ is a really great language because it acts as a basis
   for other languages and many tools that have been working flawlessly
   since it first appeared almost 40 years ago.
-
   \startitemize[packed]
   \item
     {\em Advantages:}
@@ -185,15 +182,16 @@ I'll name a few and some relevant stuff I learnt from them.
       it requires a lot of time to implement algorithms in C++.
     \item
       Due to C++ being a compiled language, executables are strictly
-      attached to an specific architecture, an executable file might
-      present problems when trying to execute the program in an
-      architecture different from the one it was compiled in the first
-      place.
+      attached to an specific architecture and platform-dependent, which
+      implies that an executable file might present problems when being
+      executed in a platform or an architecture different from the one
+      it was compiled in the first place.
     \item
-      There exist libraries that don't offer cross-platform versions,
-      and that might not work in an environment different from the one
-      it was developed in first place, this allows programs to work only
-      in a specific machine.
+      There exist libraries that rely on a specific platform and its
+      capabilities, and that might not work in an environment different
+      from the one it was developed in first place, this makes the
+      development process more tedious and so, its not always possible
+      to use the language for a specific problem/task.
     \stopitemize
   \stopitemize
 \item
@@ -203,58 +201,82 @@ I'll name a few and some relevant stuff I learnt from them.
   similar to natural language and included really powerful mathematical
   tools that helped to perform tasks that might involve mathematical
   stuff.
-
   \startitemize[packed]
   \item
     {\em Advantages:}
     \startitemize[packed]
     \item
-      Python has a lot of cool modules that in a lot of situations.
+      Python has a lot of cool modules that help in a lot of situations
+      and extend the language base capabilities making it easier to
+      perform multiple tasks.
     \item
-      C++ allows the use of not only classes but c-like structs too,
-      which gives the language a lot of possibilities and extensibility
-      too.
+      The Python ecosystem is completely open-source, which implies that
+      tools and modules that use Python, are open-source as well, which
+      makes everything more transparent and allows users to be able to
+      contribute with fixes and improvements.
+    \item
+      The syntax Python uses is similar to natural language, which makes
+      the development process comparatively faster.
+    \item
+      Python allows applications to be mostly platform-independent,
+      because there might exist modules that don't work in all
+      platforms, and therefore, a file can be developed once and used in
+      multiple, different platforms without any changes to the source
+      code.
     \stopitemize
   \item
     {\em Disadvantages:}
     \startitemize[packed]
     \item
-      C++ is a complex language, not only because of its syntax but also
-      because of other stuff like pointers and security, and therefore,
-      it requires a lot of time to implement algorithms in C++.
+      Python is not always as efficient as it can be. This is mainly
+      because it is an interpreted language and so, there exist a lot of
+      tasks that need to be done in execution time different from
+      executing an instruction.
     \item
-      Due to C++ being a compiled language, executables are strictly
-      attached to an specific architecture, an executable file might
-      present problems when trying to execute the program in an
-      architecture different from the one it was compiled in the first
-      place.
+      Since Python is not a compiled language, a program might not be
+      run completely, which can cause some problems with data
+      consistency and integrity.
     \item
-      There exist libraries that don't offer cross-platform versions,
-      and that might not work in an environment different from the one
-      it was developed in first place, this allows programs to work only
-      in a specific machine.
+      There exist libraries that rely on a specific platform and its
+      capabilities, and that might not work in an environment different
+      from the one it was developed in first place, this makes the
+      development process more tedious and so, its not always possible
+      to use the language for a specific problem/task.
     \stopitemize
   \stopitemize
 \item
   {\bf {\em Java:}}\crlf
   We both know this one's pushing it.
+  \startitemize[packed]
+  \item
+    {\em Advantages:}
+    \startitemize[packed]
+    \item
+      .
+    \stopitemize
+  \item
+    {\em Disadvantages:}
+    \startitemize[packed]
+    \item
+      .
+    \stopitemize
+  \stopitemize
 \item
   {\bf {\em Other relevant information:}}\crlf
   Also, I have basic knowledge of other programming languages like
   {\em {\bf TypeScript}, {\bf JavaScript}, {\bf C}, {\bf Dart} and
   {\bf Swift}}, as well as markup languages such as {\em {\bf YAML},
   {\bf HTML}, , {\bf Markdown}, {\bf XML} and {\bf JSON}}, and other
-  tech-related tools like {\em {\bf Kubernetes - Kubectl}, {\bf Docker -
-  Podman}, {\bf Github Actions} and {\bf AWS}}.
+  tech-related tools like {\em {\bf Git}}, {\bf Kubernetes - Kubectl},
+  {\bf Docker - Podman}, {\bf Github Actions} and {\bf AWS}_.
 \stopitemize
 
 \subsection[title={Aditional
 information},reference={aditional-information}]
 
-\startitemize
+\startitemize[packed]
 \item
-  Human Languages:
-
+  Languages:
   \startitemize[packed]
   \item
     Spanish (Native speaker)
@@ -268,8 +290,8 @@ information},reference={aditional-information}]
 \useURL[url3][mailto:bayona.n@javeriana.edu.co][][bayona.n@javeriana.edu.co]\from[url3]
 • Bogota, Colombia\crlf
 Reach me on
-\useURL[url4][https://t.me/nclsbayona][][\fa{telegram}]\from[url4]Telegram,
-my username is nclsbayona
+\useURL[url4][https://t.me/nclsbayona][][Telegram]\from[url4], my
+username is nclsbayona
 
 \thinrule
 

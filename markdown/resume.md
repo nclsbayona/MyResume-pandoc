@@ -39,10 +39,9 @@ Usually I practice my skills via some helpful project that I tend to mantain ove
   * Second item.
 
 **Open Source:**\
+
 * **_Project 1:_** Here
-
 * **_Project 2:_** Description 
-
 * **_Project 3:_** We both
 
 **Programming Languages:**   

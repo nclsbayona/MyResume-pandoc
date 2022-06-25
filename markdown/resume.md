@@ -30,7 +30,7 @@ _**Academic mentor at Pontifical Xaverian University**_:
 Technical Experience
 --------------------
 
-Most of my technical work is in my GitHub profile, you can visit my profile at [GitHub](https://github.com/nclsbayona)
+Most of my technical work is in my GitHub profile, you can visit my profile at [github.com/nclsbayona](https://github.com/nclsbayona)
 
 **My Cool Side Projects:**\
 Usually I practice my skills via some helpful project that I tend to mantain over time, I think it's really good to automate repetitive tasks and jobs a bot or some type of automation software can do on its own. Examples of this are my
@@ -65,24 +65,19 @@ The first programming language I learnt was C++, the most valuable thing I think
 After learning C++, I decided to learn Python, because its reputation was great, it simplified the development process as its syntax was similar to natural language and included really powerful mathematical tools that helped to perform tasks that might involve mathematical stuff.
   * _Advantages:_
     - Python has a lot of cool modules that help in a lot of situations and extend the language base capabilities making it easier to perform multiple tasks.
-    - .
+    - Python's ecosystem is completely open-source, which implies that tools and modules that use Python, are open-source as well, which allows .
     - .
   
   * _Disadvantages:_
-    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in C++.
-    - Due to C++ being a compiled language, executables are strictly attached to an specific architecture, an executable file might present problems when trying to execute the program in an architecture different from the one it was compiled in the first place.
-    - There exist libraries that don't offer cross-platform versions, and that might not work in an environment different from the one it was developed in first place, this allows programs to work only in a specific machine.
+    - Python is not always as efficient as it can be. This 
 
 * **_Java:_** \
 We both know this one's pushing it. 
   * _Advantages:_
-    - Python has a lot of cool modules that  in a lot of situations.
-    - C++ allows the use of not only classes but c-like structs too, which gives the language a lot of possibilities and extensibility too.
+    - .
   
   * _Disadvantages:_
-    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in C++.
-    - Due to C++ being a compiled language, executables are strictly attached to an specific architecture, an executable file might present problems when trying to execute the program in an architecture different from the one it was compiled in the first place.
-    - There exist libraries that don't offer cross-platform versions, and that might not work in an environment different from the one it was developed in first place, this allows programs to work only in a specific machine.
+    - .
 
 * **_Other relevant information:_** \
 Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_, as well as markup languages such as _**YAML**, **HTML**, , **Markdown**, **XML** and **JSON**_, and other tech-related tools like _**Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions** and **AWS**_.

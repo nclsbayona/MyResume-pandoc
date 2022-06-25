@@ -38,7 +38,7 @@ Usually I practice my skills via some helpful project that I tend to mantain ove
   * These items can also contain lists, but you need to mind the indentation levels in the markdown source.
   * Second item.
 
-**Open Source:**
+**Open Source:**\
 * **_Project 1:_** Here
 
 * **_Project 2:_** Description 
@@ -55,7 +55,7 @@ The first programming language I learnt was C++, the most valuable thing I think
     - C++ allows the use of not only classes but c-like structs too, which gives the language a lot of possibilities and extensibility too.
   
   * _Disadvantages:_
-    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in C++.
+    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in the language.
     - Due to C++ being a compiled language, executables are strictly attached to an specific architecture and platform-dependent, which implies that an executable file might present problems when being executed in a platform or an architecture different from the one it was compiled in the first place.
     - There exist libraries that rely on a specific platform and its capabilities, and that might not work in an environment different from the one it was developed in first place, this makes the development process more tedious and so, its not always possible to use the language for a specific problem/task.
 

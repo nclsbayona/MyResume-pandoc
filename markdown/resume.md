@@ -62,7 +62,15 @@ The first programming language I learnt was C++, the most valuable thing I think
 
 
 * **_Python:_** \
-After learning C++, I decided to learn Python, because its reputation was great, it simplified the development process as its syntax was similar to natural language and included really powerful mathematical tools that helped to perform tasks in a more methodic way. 
+After learning C++, I decided to learn Python, because its reputation was great, it simplified the development process as its syntax was similar to natural language and included really powerful mathematical tools that helped to perform tasks that might involve mathematical stuff.
+  * _Advantages:_
+    - Python has a lot of cool modules that  in a lot of situations.
+    - C++ allows the use of not only classes but c-like structs too, which gives the language a lot of possibilities and extensibility too.
+  
+  * _Disadvantages:_
+    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in C++.
+    - Due to C++ being a compiled language, executables are strictly attached to an specific architecture, an executable file might present problems when trying to execute the program in an architecture different from the one it was compiled in the first place.
+    - There exist libraries that don't offer cross-platform versions, and that might not work in an environment different from the one it was developed in first place, this allows programs to work only in a specific machine.
 
 * **_Java:_** \
 We both know this one's pushing it. 

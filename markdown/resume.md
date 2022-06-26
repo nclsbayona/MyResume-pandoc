@@ -56,7 +56,7 @@ The first programming language I learnt was C++, the most valuable thing I think
     - C++ allows the use of not only classes but c-like structs too, which gives the language a lot of possibilities and extensibility too.
   
   * _Disadvantages:_
-    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in C++.
+    - C++ is a complex language, not only because of its syntax but also because of other stuff like pointers and security, and therefore, it requires a lot of time to implement algorithms in the language.
     - Due to C++ being a compiled language, executables are strictly attached to an specific architecture and platform-dependent, which implies that an executable file might present problems when being executed in a platform or an architecture different from the one it was compiled in the first place.
     - There exist libraries that rely on a specific platform and its capabilities, and that might not work in an environment different from the one it was developed in first place, this makes the development process more tedious and so, its not always possible to use the language for a specific problem/task. -->
 
@@ -82,7 +82,7 @@ After learning Python, I learnt Java since it was a more mature language, Java w
     - There exist libraries that rely on a specific platform and its capabilities, and that might not work in an environment different from the one it was developed in first place, this makes the development process more tedious and so, its not always possible to use the language for a specific problem/task. -->
 
 * **_Other relevant information:_** \
-Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart** and **Swift**_, as well as markup languages such as _**YAML**, **HTML**, , **Markdown**, **XML** and **JSON**_, and other tech-related tools like _**Git**_, **Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions** and **AWS**_.
+Also, I have basic knowledge of other programming languages like _**TypeScript**, **JavaScript**, **C**, **Dart**_ and _**Swift**_, as well as markup languages such as _**YAML**, **HTML**, , **Markdown**, **XML**_ and _**JSON**_, and other tech-related tools like _**Git**_, **Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions**_ and _**AWS**_.
 
 
 Aditional information
@@ -91,6 +91,17 @@ Aditional information
 * Languages:
      * Spanish (Native speaker)
      * English (Fully-conversational)
+
+Awards
+----------------------------------------
+- Academic excellence
+  - August 2020
+- Academic excellence
+  - January 2021
+- Academic excellence
+  - August 2021
+- Academic excellence
+  - January 2022
 
 ----
 

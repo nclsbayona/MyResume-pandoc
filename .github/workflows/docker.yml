@@ -5,9 +5,9 @@ on:
     branches:
       - master
     paths:
-      - Dockerfile
+      - Dockerfile"
   schedule:
-    - cron: "0 12 * * */30"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 env:

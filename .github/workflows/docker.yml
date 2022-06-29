@@ -41,7 +41,7 @@ jobs:
         id: date
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
       - name: Build and Push Versioned Docker Image
-        id: build-and-push-${{ steps.date.outputs.date }}
+        id: build-and-push-versioned
         uses: docker/build-push-action@v2
         with:
           context: .

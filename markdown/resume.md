@@ -2,6 +2,7 @@ Nicolas Bayona
 ============
 
 > Systems engineering student passionate about technological stuff and the use of technology to improve people's lives.
+
 --------
 
 Education
@@ -15,11 +16,11 @@ Experience
 ----------
 **Work Experience:**
 
-   - _**Teacher assistant of Introduction to programming at Pontifical Xaverian University**_
+   - _Teacher assistant of Introduction to programming at Pontifical Xaverian University_
 
 **Volunteer Work Experience:**
 
-  - _**Academic mentor at Pontifical Xaverian University**_
+  - _Academic mentor at Pontifical Xaverian University_
 
 Technical Experience
 --------------------
@@ -39,7 +40,7 @@ Throughout my life, I've worked in many projects and therefore, I've adquired a 
 * **_Python:_** \
 * **_Java:_** \
 * **_Other relevant tools:_** \
-  - _**Git**_, **Kubernetes - Kubectl**, **Docker - Podman**, **Github Actions**_ and _**AWS**_.
+  - Git, Kubernetes - Kubectl, Docker - Podman, Github Actions _and_ AWS.
 
 
 Aditional information

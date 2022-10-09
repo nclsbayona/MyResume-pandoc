@@ -36,9 +36,9 @@ Usually I practice my skills via some helpful project that I tend to mantain ove
 **Programming Languages:**   
 Throughout my life, I've worked in many projects and therefore, I've adquired a lot of experience in various programming languages. Next, I'll name a few and some relevant stuff I learnt from them.
 
-* **_C++:_** \
-* **_Python:_** \
-* **_Java:_** \
+* **_C++_** \
+* **_Python_** \
+* **_Java_** \
 * **_Other relevant tools:_** \
   - Git, Kubernetes - Kubectl, Docker - Podman, Github Actions _and_ AWS.
 

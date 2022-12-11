@@ -2,7 +2,6 @@ Nicolas Bayona
 ============
 
 > Systems engineering student passionate about technological stuff and the use of technology to improve people's lives.
-
 --------
 
 Education
@@ -25,9 +24,11 @@ Experience
 Technical Experience
 --------------------
 
-Most of my technical work is in my GitHub profile, you can visit my profile at [github.com/nclsbayona](https://github.com/nclsbayona)
+Most of my technical work is in my GitHub profile, you can visit my profile at [https://github.com/nclsbayona](https://github.com/nclsbayona)
 
-**My Cool Side Projects:**\
+**My Cool Side Projects:**
+--------------------------
+
 Usually I practice my skills via some helpful project that I tend to mantain over time, I think it's really good to automate repetitive tasks and jobs a bot or some type of automation software can do on its own. Examples of this are most of my GitHub repositories:
 
   * **_[My Profile README](https:github.com/nclsbayona/nclsbayona):_** My GitHub profile's readme is an example of a programming and automation project I've realized.

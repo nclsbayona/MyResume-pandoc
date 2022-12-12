@@ -35,7 +35,7 @@ Usually I practice my skills via some helpful project that I tend to mantain ove
   * **_[My WebPage](https:github.com/nclsbayona/nclsbayona.github.io):_** I recently developed my own website which acts as a showcase for my habilities as web developer.
   
 **Programming Languages:**   
-Throughout my life, I've worked in many projects and therefore, I've adquired a lot of experience in various programming languages. Next, I'll name a few and some relevant stuff I learnt from them.
+Throughout my life, I've worked in many projects and therefore, I've adquired experience working with various programming languages, for example:
 
 * **_C++_** \
 * **_Python_** \

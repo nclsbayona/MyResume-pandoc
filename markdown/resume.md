@@ -1,6 +1,6 @@
 Nicolas Bayona
 ============
-
+--------
 > Systems engineering student passionate about technological stuff and the use of technology to improve people's lives.
 --------
 

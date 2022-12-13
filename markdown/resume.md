@@ -15,11 +15,11 @@ Experience
 ----------
 **Work Experience:**
 
-   - _Teacher assistant of Introduction to programming at Pontifical Xaverian University_
+   - _Teacher assistant of Introduction to programming at Pontifical Xaverian University (August 2020 - December 2020)_
 
 **Volunteer Work Experience:**
 
-  - _Academic mentor at Pontifical Xaverian University_
+  - _Academic mentor at Pontifical Xaverian University (August 2022 - Present)_
 
 Technical Experience
 --------------------
@@ -53,16 +53,7 @@ Aditional information
 
 Awards
 ----------------------------------------
-- Academic excellence
-  - August 2020
-- Academic excellence
-  - January 2021
-- Academic excellence
-  - August 2021
-- Academic excellence
-  - January 2022
-- Academic excellence
-  - August 2022
+- Academic excellence (August 2020 - August 2022)
 
 ----
 

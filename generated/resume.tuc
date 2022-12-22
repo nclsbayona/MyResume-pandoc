@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0x1.e6c249ep-1,
+ ["randomseed"]=0x1.d19064f8p-2,
  ["sectionblockorder"]={},
 }
 
@@ -121,15 +121,6 @@ utilitydata.structures.sections.collected={
   ["separatorset"]="default",
   ["set"]="all",
  },
- {
-  ["block"]="bodypart",
-  ["conversionset"]="default",
-  ["hidenumber"]=true,
-  ["language"]="en",
-  ["numbers"]=6,
-  ["separatorset"]="default",
-  ["set"]="all",
- },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -198,8 +189,8 @@ if not utilitydata.structures.lists then utilitydata.structures.lists = { } end
 
 utilitydata.structures.lists.collected={
  {
-  ["metadata"]=7,
-  ["numberdata"]=8,
+  ["metadata"]=6,
+  ["numberdata"]=7,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=1,
@@ -213,30 +204,14 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=9,
-  ["numberdata"]=10,
+  ["metadata"]=8,
+  ["numberdata"]=9,
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=2,
    ["realpage"]=1,
-   ["reference"]="systems-engineering-student-bayona.njaveriana.edu.co-httpsnclsbayona.github.io",
-   ["section"]=2,
-  },
-  ["titledata"]={
-   ["bookmark"]="> Systems engineering student |{} bayona.n@javeriana.edu.co |{} https://nclsbayona.github.io",
-   ["label"]="subsection",
-   ["title"]="> Systems engineering student \\letterbar {} bayona.n@javeriana.edu.co \\letterbar {} https://nclsbayona.github.io",
-  },
- },
- {
-  ["metadata"]=9,
-  ["numberdata"]=11,
-  ["references"]={
-   ["block"]="bodypart",
-   ["internal"]=3,
-   ["realpage"]=1,
    ["reference"]="experience",
-   ["section"]=3,
+   ["section"]=2,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -244,14 +219,14 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=9,
-  ["numberdata"]=12,
+  ["metadata"]=8,
+  ["numberdata"]=10,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=4,
+   ["internal"]=3,
    ["realpage"]=1,
    ["reference"]="education",
-   ["section"]=4,
+   ["section"]=3,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -259,14 +234,14 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=9,
-  ["numberdata"]=13,
+  ["metadata"]=8,
+  ["numberdata"]=11,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=5,
+   ["internal"]=4,
    ["realpage"]=1,
    ["reference"]="skills",
-   ["section"]=5,
+   ["section"]=4,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -274,14 +249,14 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=9,
-  ["numberdata"]=14,
+  ["metadata"]=8,
+  ["numberdata"]=12,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=6,
+   ["internal"]=5,
    ["realpage"]=1,
    ["reference"]="awards-and-certifications",
-   ["section"]=6,
+   ["section"]=5,
   },
   ["titledata"]={
    ["label"]="subsection",
@@ -297,8 +272,8 @@ utilitydata.structures.pages.collected={
  {
   ["block"]="bodypart",
   ["number"]=1,
-  ["numberdata"]=15,
-  ["prefixdata"]=16,
+  ["numberdata"]=13,
+  ["prefixdata"]=14,
   ["state"]="start",
  },
 }
@@ -313,6 +288,7 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
+ { 1, 1 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -369,7 +345,6 @@ utilitydata.job.packed={
   { 0, 0, 1, 2 },
   { 0, 0, 1, 3 },
   { 0, 0, 1, 4 },
-  { 0, 0, 1, 5 },
   {
    ["catcodes"]=8,
    ["coding"]="tex",
@@ -428,15 +403,6 @@ utilitydata.job.packed={
    ["hidenumber"]=true,
    ["language"]="en",
    ["numbers"]=5,
-   ["separatorset"]="default",
-   ["set"]="all",
-  },
-  {
-   ["block"]="bodypart",
-   ["conversionset"]="default",
-   ["hidenumber"]=true,
-   ["language"]="en",
-   ["numbers"]=6,
    ["separatorset"]="default",
    ["set"]="all",
   },

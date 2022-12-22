@@ -2,7 +2,6 @@ Nicolas Bayona
 ============
 
 > Systems engineering student | bayona.n@javeriana.edu.co | https://nclsbayona.github.io
-> 
 ---
 
 Experience

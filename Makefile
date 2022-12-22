@@ -22,7 +22,7 @@ html: init
 		echo $$FILE_NAME.html; \
 		pandoc --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
 			--lua-filter=pdc-links-target-blank.lua \
-			--from markdown --to html \
+			--from markdown --to html5 \
 			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
 			--metadata pagetitle=$$FILE_NAME;\
 	done

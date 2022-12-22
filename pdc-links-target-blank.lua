@@ -1,8 +1,8 @@
 -- Add target="_blank" attributes to all http links in a Pandoc document
 
 local function add_target_blank (link)
-    if string.match(link.target, '^http') then  -- here .target == href attribute
-        link.attributes.target = '_blank'       -- here .target == traget attribute
+    if string.match(link.target, '^http') or string.match(link.target, '^https') then  -- here .target == href attribute
+        link.attributes.target = '_blank'       -- here .target == target attribute
     end
     return link
 end

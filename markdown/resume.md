@@ -24,20 +24,19 @@ Education
 **Skills:**
 --------------------------
   
-**Programming Languages:**
+_Programming Languages_
 
-| • **C++** |• **Python** |
-|:--------:|:----------:|
-|• **Java** |  • **Go**   |
+| • **C++**  | • **Python** |
+|:----------:|:------------:|
+| • **Java** | • **Go**     |
 
+_Other relevant tools_
 
-**Other relevant tools:**
+| • **Git**             | • **Kubernetes - Kubectl** | • **Github Actions** |
+|:---------------------:|:--------------------------:|:--------------------:|
+| • **Docker - Podman** |                            | • **AWS**            |
 
-|      • **Git**       |• **Kubernetes - Kubectl** | • **Github Actions** |
-|:-------------------:|:------------------------:|:------------------:|
-| • **Docker - Podman** |                          |       • **AWS**      |
-
-**Languages:**
+_Languages_
 - Spanish (Native Speaker)
 - English (Fully-conversational)
 

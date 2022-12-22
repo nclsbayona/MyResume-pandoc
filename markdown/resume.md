@@ -26,16 +26,16 @@ Education
   
 **Programming Languages:**
 
-|  **C++** | **Python** |
+| • **C++** |• **Python** |
 |:--------:|:----------:|
-| **Java** |   **Go**   |
+|• **Java** |  • **Go**   |
 
 
 **Other relevant tools:**
 
-|       **Git**       | **Kubernetes - Kubectl** | **Github Actions** |
+|      • **Git**       |• **Kubernetes - Kubectl** | • **Github Actions** |
 |:-------------------:|:------------------------:|:------------------:|
-| **Docker - Podman** |                          |       **AWS**      |
+| • **Docker - Podman** |                          |       • **AWS**      |
 
 **Languages:**
 - Spanish (Native Speaker)

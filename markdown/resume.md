@@ -25,11 +25,14 @@ Education
 --------------------------
   
 **Programming Languages:**
+
 |  **C++** | **Python** |
 |:--------:|:----------:|
 | **Java** |   **Go**   |
 
+
 **Other relevant tools:**
+
 |       **Git**       | **Kubernetes - Kubectl** | **Github Actions** |
 |:-------------------:|:------------------------:|:------------------:|
 | **Docker - Podman** |                          |       **AWS**      |

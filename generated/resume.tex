@@ -1,0 +1,159 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\defineitemgroup[enumerate]
+\setupenumerate[each][fit][itemalign=left,distance=.5em,style={\feature[+][default:tnum]}]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Nicolas Bayona},reference={nicolas-bayona}]
+
+\subsection[title={> Systems engineering student \letterbar{}
+bayona.n@javeriana.edu.co \letterbar{}
+https://nclsbayona.github.io},reference={systems-engineering-student-bayona.njaveriana.edu.co-httpsnclsbayona.github.io}]
+
+\subsection[title={Experience},reference={experience}]
+
+{\bf Work Experience:}
+
+\startitemize[packed]
+\item
+  {\em Teacher assistant of Introduction to programming at Pontifical
+  Xaverian University} {\bf (July 2020 - November 2020)}
+\stopitemize
+
+{\bf Volunteer Work Experience:}
+
+\startitemize[packed]
+\item
+  {\em Academic mentor at Pontifical Xaverian University} {\bf (May 2022
+  - Present)}
+\stopitemize
+
+\subsection[title={Education},reference={education}]
+
+2019-2023 (expected):\crlf
+{\bf BSc, Systems engineering}; Pontifical Xaverian University (Bogota,
+Colombia)
+
+\subsection[title={{\bf Skills:}},reference={skills}]
+
+{\bf Programming Languages:} \letterbar{} {\bf C++} \letterbar{}
+{\bf Python} \letterbar{}
+\letterbar{}:--------:\letterbar{}:----------:\letterbar{} \letterbar{}
+{\bf Java} \letterbar{} {\bf Go} \letterbar{}
+
+{\bf Other relevant tools:} \letterbar{} {\bf Git} \letterbar{}
+{\bf Kubernetes - Kubectl} \letterbar{} {\bf Github Actions}
+\letterbar{}
+\letterbar{}:-------------------:\letterbar{}:------------------------:\letterbar{}:------------------:\letterbar{}
+\letterbar{} {\bf Docker - Podman} \letterbar{} \letterbar{} {\bf AWS}
+\letterbar{}
+
+{\bf Languages:} - Spanish (Native Speaker) - English
+(Fully-conversational)
+
+\subsection[title={Awards and
+certifications},reference={awards-and-certifications}]
+
+\startitemize[packed]
+\item
+  Academic excellence - Related to: {\bf BSc, Systems engineering}
+  \startitemize[packed]
+  \item
+    August 2020
+  \stopitemize
+\item
+  Academic excellence - Related to: {\bf BSc, Systems engineering}
+  \startitemize[packed]
+  \item
+    January 2021
+  \stopitemize
+\item
+  Academic excellence - Related to: {\bf BSc, Systems engineering}
+  \startitemize[packed]
+  \item
+    August 2021
+  \stopitemize
+\item
+  Academic excellence - Related to: {\bf BSc, Systems engineering}
+  \startitemize[packed]
+  \item
+    January 2022
+  \stopitemize
+\item
+  Academic excellence - Related to: {\bf BSc, Systems engineering}
+  \startitemize[packed]
+  \item
+    August 2022
+  \stopitemize
+\stopitemize
+
+\thinrule
+
+\stoptext

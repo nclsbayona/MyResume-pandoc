@@ -37,6 +37,7 @@ _Other relevant tools_
 | • **Docker - Podman** |                            | • **AWS**            |
 
 _Languages_
+
 - Spanish (Native Speaker)
 - English (Fully-conversational)
 

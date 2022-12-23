@@ -1,0 +1,172 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\defineitemgroup[enumerate]
+\setupenumerate[each][fit][itemalign=left,distance=.5em,style={\feature[+][default:tnum]}]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Nicolas Bayona},reference={nicolas-bayona}]
+
+\startblockquote
+Systems engineering student \letterbar{} Mail:
+\useURL[url1][mailto:bayona.n@javeriana.edu.co][][bayona.n@javeriana.edu.co]\from[url1]
+\letterbar{} Webpage:
+\useURL[url2][https://nclsbayona.github.io]\from[url2]
+
+\thinrule
+\stopblockquote
+
+\subsection[title={Experience},reference={experience}]
+
+{\bf Technical Work Experience:}
+
+\startitemize[packed]
+\item
+  {\em Teacher assistant of Introduction to programming at Pontifical
+  Xaverian University} {\bf (July 2020 - November 2020)}
+\stopitemize
+
+{\bf Volunteer Work Experience:}
+
+\startitemize[packed]
+\item
+  {\em Academic mentor at Pontifical Xaverian University} {\bf (May 2022
+  - Present)}
+\stopitemize
+
+\subsection[title={Education},reference={education}]
+
+2019-2023 (expected):\crlf
+{\bf BSc, Systems engineering}; Pontifical Xaverian University (Bogota,
+Colombia)
+
+\subsection[title={{\bf Skills:}},reference={skills}]
+
+{\em Programming Languages}
+
+\startplacetable[location=none]
+\startxtable
+\startxtablehead[head]
+\startxrow
+\startxcell[align=middle] • {\bf C++} \stopxcell
+\startxcell[align=middle] • {\bf Python} \stopxcell
+\stopxrow
+\stopxtablehead
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=middle] • {\bf Java} \stopxcell
+\startxcell[align=middle] • {\bf Go} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+{\em Other relevant tools}
+
+\startplacetable[location=none]
+\startxtable
+\startxtablehead[head]
+\startxrow
+\startxcell[align=middle] • {\bf Git} \stopxcell
+\startxcell[align=middle] • {\bf Kubernetes - Kubectl} \stopxcell
+\startxcell[align=middle] • {\bf Github Actions} \stopxcell
+\stopxrow
+\stopxtablehead
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=middle] • {\bf Docker - Podman} \stopxcell
+\startxcell[align=middle]  \stopxcell
+\startxcell[align=middle] • {\bf AWS} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+{\em Languages} - Spanish (Native Speaker) - English
+(Fully-conversational)
+
+\subsection[title={Awards, licenses and
+certifications},reference={awards-licenses-and-certifications}]
+
+\startitemize
+\item
+  Academic excellence ¤ Related to: {\bf BSc, Systems engineering at
+  Pontifical Xaverian University} ¤ (August 2020 - August 2022)
+\item
+  \subsection[title={\useURL[url3][https://www.udemy.com/certificate/UC-464729cf-7e83-4cda-8990-f3632121d329/][][Docker
+  Mastery: with Kubernetes + Swarm from a Docker Captain]\from[url3] ¤
+  Acquired from: Udemy ¤ (April 2022 - No expiration
+  date)},reference={docker-mastery-with-kubernetes-swarm-from-a-docker-captain-acquired-from-udemy-april-2022---no-expiration-date}]
+\stopitemize
+
+\stoptext

@@ -21,9 +21,15 @@ Education
 2019-2023 (expected):\
 **BSc, Systems engineering**; Pontifical Xaverian University (Bogota, Colombia)
 
-**Skills:**
+**Skills**
 --------------------------
   
+_Soft skills_
+
+| • **Teamwork**  | • **Effective communication** |
+|:---------------:|:-----------------------------:|
+| • **Leadership** |     |
+
 _Programming Languages_
 
 | • **C++**  | • **Python** |

@@ -32,7 +32,7 @@ jobs:
       - run: make
       - name: HTML
         run: |
-         mkdir docs
+         mkdir -p docs
          cp generated/resume.html docs/index.html
       - name: Commit files
         run: |

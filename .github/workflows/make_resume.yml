@@ -32,7 +32,8 @@ jobs:
       - run: make
       - name: HTML
         run: |
-         cp generated/resume.html ./index.html
+         mkdir docs
+         cp generated/resume.html docs/index.html
       - name: Commit files
         run: |
          git config --global --add safe.directory /__w/MyResume/MyResume

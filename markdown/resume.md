@@ -2,8 +2,8 @@ Nicolas Esteban Bayona Ordoñez
 ============
 
 > Systems engineering student
-
-> • **![LinkedIn](https://github.com/nclsbayona/MyResume/tree/master/linkedin-logo.png) [https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)**
+> 
+> • ![LinkedIn](../linkedin-logo.png) **[https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)**
 
 > • **📫 [bayona.n@javeriana.edu.co](mailto:bayona.n@javeriana.edu.co)**
 

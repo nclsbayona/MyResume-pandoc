@@ -1,8 +1,10 @@
 Nicolas Esteban Bayona Ordoñez
 ============
 
-> Systems engineering student | Mail: [bayona.n@javeriana.edu.co](mailto:bayona.n@javeriana.edu.co) | Webpage: [https://nclsbayona.github.io](https://nclsbayona.github.io) | LinkedIn: [https://www.linkedin.com/in/nicolas-esteban-bayona-ordo%C3%B1ez-07547b214/](https://www.linkedin.com/in/nicolas-esteban-bayona-ordo%C3%B1ez-07547b214/)
- 
+> Systems engineering student | LinkedIn: [https://www.linkedin.com/in/nicolas-esteban-bayona-ordo%C3%B1ez-07547b214/](https://www.linkedin.com/in/nicolas-esteban-bayona-ordo%C3%B1ez-07547b214/)
+| • **📫 [bayona.n@javeriana.edu.co](mailto:bayona.n@javeriana.edu.co)**  | • **🌐 [https://nclsbayona.github.io](https://nclsbayona.github.io)** |
+|:---------------:|:-----------------------------:|
+
 ---
 
 Experience

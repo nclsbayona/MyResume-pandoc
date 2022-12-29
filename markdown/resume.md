@@ -57,6 +57,6 @@ Awards, licenses and certifications
 ----------------------------------------
 - Academic excellence ¤ Related to: **BSc, Systems engineering at Pontifical Xaverian University** ¤ (August 2020 - August 2022)
 - [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/certificate/UC-464729cf-7e83-4cda-8990-f3632121d329/) ¤ Acquired from: Udemy ¤ (April 2022 - No expiration date)
-- [Exploratory Data Analysis for Machine Learning]([https://www.udemy.com/certificate/UC-464729cf-7e83-4cda-8990-f3632121d329/](https://coursera.org/verify/FVGG93FLQ357)) ¤ Acquired from: Coursera ¤ (December 2022 - No expiration date)
+- [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/FVGG93FLQ357) ¤ Acquired from: Coursera ¤ (December 2022 - No expiration date)
  
 ------

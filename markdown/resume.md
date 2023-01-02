@@ -15,17 +15,22 @@ Experience
 ----------
 **Technical Work Experience:**
 
-   - _Teacher assistant of Introduction to programming at Pontifical Xaverian University_ **(July 2020 - November 2020)**
-
+   - _Teacher assistant of Introduction to programming at Pontifical Xaverian University_ **(July 2020 - November 2020)**. Skills used:
+     - C++
+     - Leadership
+     - Effective communication
+     
 **Volunteer Work Experience:**
 
-  - _Academic mentor at Pontifical Xaverian University_ **(May 2022 - Present)**
+  - _Academic mentor at Pontifical Xaverian University_ **(May 2022 - Present)**. Skills used:
+    - Effective communication
+    - Leadership
+    - Teamwork
 
 Education
 ---------
 
-2019-2023 (expected):\
-**BSc, Systems engineering**; Pontifical Xaverian University (Bogota, Colombia)
+**BSc, Systems engineering** (July 2019 - December 2023) (expected); Pontifical Xaverian University (Bogota, Colombia)
 
 **Skills**
 --------------------------

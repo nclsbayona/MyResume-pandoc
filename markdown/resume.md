@@ -1,7 +1,7 @@
 Nicolas Esteban Bayona Ordoñez
 ============
 
-> Systems engineering student
+> Systems engineering student | My goal is to become a great professional in areas related to cloud computing
 
 > • ![LinkedIn](https://raw.githubusercontent.com/nclsbayona/MyResume/master/linkedin-logo.png) **[https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)**
 

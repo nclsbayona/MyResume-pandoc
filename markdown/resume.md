@@ -1,7 +1,7 @@
 Nicolas Esteban Bayona Ordoñez
 ============
 
-> Systems engineering student with an emphasis on advanced software development and digital security, passionately about cloud technologies
+> Systems engineering student with an emphasis on advanced software development and digital security, passionate about cloud technologies
 
 > • ![LinkedIn](https://raw.githubusercontent.com/nclsbayona/MyResume/master/linkedin-logo.png) **[https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)**
 

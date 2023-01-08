@@ -1,7 +1,7 @@
 Nicolas Esteban Bayona Ordoñez
 ============
 
-> Systems engineering student | My goal is to become a great professional in areas related to cloud computing
+> Systems engineering student with an emphasis on advanced software development and digital security, passionately about cloud technologies
 
 > • ![LinkedIn](https://raw.githubusercontent.com/nclsbayona/MyResume/master/linkedin-logo.png) **[https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)**
 
@@ -30,7 +30,7 @@ Experience
 Education
 ---------
 
-**BSc, Systems engineering** (July 2019 - December 2023) (expected); Pontifical Xaverian University (Bogota, Colombia)
+**BSc, Systems engineering** (July 2019 - Present); Pontifical Xaverian University (Bogota, Colombia)
 
 **Skills**
 --------------------------
@@ -56,7 +56,7 @@ _Other relevant tools_
 _Languages_
 
 - Spanish (Native Speaker)
-- English (Fully-conversational)
+- English (B2 level)
 
 Awards, licenses and certifications
 ----------------------------------------

@@ -3,11 +3,9 @@ Nicolas Esteban Bayona Ordoñez
 
 > Systems engineering student with an emphasis on advanced software development and digital security, passionate about cloud technologies, software development, software architecture and the use of technology to improve people's lives.
 
-> • ![LinkedIn](https://raw.githubusercontent.com/nclsbayona/MyResume/master/linkedin-logo.png) : **[https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)**
-
-> • ![E-mail](https://raw.githubusercontent.com/nclsbayona/MyResume/master/email-logo.png) : **[bayona.n@javeriana.edu.co](mailto:bayona.n@javeriana.edu.co)**
-
-> • ![Website](https://raw.githubusercontent.com/nclsbayona/MyResume/master/website-logo.png) : **[https://nclsbayona.github.io](https://nclsbayona.github.io)**
+|   |   |   |
+|:-:|:-:|:-:|
+| ![LinkedIn](https://raw.githubusercontent.com/nclsbayona/MyResume/master/linkedin-logo.png) **[https://www.linkedin.com/in/nclsbayona](https://www.linkedin.com/in/nclsbayona)** | ![E-mail](https://raw.githubusercontent.com/nclsbayona/MyResume/master/email-logo.png) **[bayona.n@javeriana.edu.co](mailto:bayona.n@javeriana.edu.co)** | ![Website](https://raw.githubusercontent.com/nclsbayona/MyResume/master/website-logo.png) **[https://nclsbayona.github.io](https://nclsbayona.github.io)**
 
 ---
 

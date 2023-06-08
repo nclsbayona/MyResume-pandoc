@@ -34,9 +34,9 @@ Education
   
 _Soft skills_
 
-| • **Teamwork**  | • **Effective communication** |
-|:---------------:|:-----------------------------:|
-| • **Leadership** |     |
+| • **Teamwork**  | • **Effective communication** |• **Leadership**|
+|:---------------:|:-----------------------------:|:----:|
+| • **Resilience** | • **Time management**    |• **Empathy** |
 
 _Programming Languages_
 

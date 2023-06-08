@@ -1,6 +1,7 @@
 Nicolas Esteban Bayona Ordoñez
 ============
 > Systems engineering student with an emphasis on advanced software development and digital security, passionate about cloud technologies, software development, software architecture and the use of technology to improve people's lives.
+
 |   |   |   |
 |:-:|:-:|:-:|
 | **[![LinkedIn](https://raw.githubusercontent.com/nclsbayona/MyResume/master/linkedin-logo.png) nclsbayona](https://www.linkedin.com/in/nclsbayona)** | **[![E-mail](https://raw.githubusercontent.com/nclsbayona/MyResume/master/email-logo.png) bayona.n@javeriana.edu.co](mailto:bayona.n@javeriana.edu.co)** | **[![Website](https://raw.githubusercontent.com/nclsbayona/MyResume/master/website-logo.png) nclsbayona.github.io](https://nclsbayona.github.io)** |
@@ -22,6 +23,32 @@ Experience
 Education
 ---------
 **BSc, Systems engineering** (July 2019 - Present); Pontifical Xaverian University (Bogota, Colombia)
+
+Skills
+--------------------------
+  
+_Soft skills_
+
+| • **Teamwork**  | • **Effective communication** |• **Leadership**|
+|:---------------:|:-----------------------------:|:----:|
+| • **Resilience** | • **Time management**    |• **Empathy** |
+
+_Programming Languages_
+
+| • **C++**  | • **Python** |
+|:----------:|:------------:|
+| • **Java** | • **Go**     |
+
+_Other relevant tools_
+
+| • **Git**             | • **Kubernetes/Kubectl** | • **Github Actions** |
+|:---------------------:|:--------------------------:|:--------------------:|
+| • **Docker/Podman** | • **Jenkins** | • **AWS/GCP**            |
+
+_Languages_
+
+- Spanish (Native Speaker)
+- English (B2 level)
 
 Awards, licenses and certifications
 ----------------------------------------

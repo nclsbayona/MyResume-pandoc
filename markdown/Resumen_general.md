@@ -56,4 +56,5 @@ Certificaciones y premios recibidos
 - Excelencia academica (Pregrado en Ingenieria de Sistemas) ¤ Agosto 2020 - Enero 2023
 - [Docker Mastery: with Kubernetes + Swarm from a Docker Captain](https://www.udemy.com/certificate/UC-464729cf-7e83-4cda-8990-f3632121d329/) ¤ Acquired from: Udemy ¤ (Abril 2022 - Sin fecha de expiración)
 - [Exploratory Data Analysis for Machine Learning](https://coursera.org/verify/FVGG93FLQ357) ¤ Acquired from: Coursera ¤ (Diciembre 2022 - Sin fecha de expiración)
+
 ------
